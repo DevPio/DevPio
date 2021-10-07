@@ -1,7 +1,6 @@
 <h1 align='center'>Hi I'm Luccas Pio 👋</h1>
 
-<h3>Proactive, responsabible Sharepoint developer focused web systems. Known to possess strong technical knowledge and deliver solid 
-solutions. More than 2 years experience developing Sharepoint.</h3>
+<h3>Proactive, responsabible Sharepoint developer focused web systems. Known to possess strong technical knowledge. More than 2 years experience developing Sharepoint.</h3>
  
 <br>
 
