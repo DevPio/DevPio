@@ -10,8 +10,6 @@ solutions. More than 2 years experience developing Sharepoint.</h3>
   <img width='400px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=DevPio&layout=compact&show_icons=true&theme=radical'/>
 </div>
 <br>
-  
-<h3 align='center'>Technologies that I study:<h3>
 
 
 <br>
